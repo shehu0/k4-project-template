@@ -1,5 +1,6 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 2.8.5)
 
+project(k4MCGenStandAlone)
 
 #find_package(EDM4HEP)
 find_package(ROOT COMPONENTS RIO Tree)
